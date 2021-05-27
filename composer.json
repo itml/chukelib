@@ -1,6 +1,6 @@
 {
     "name": "chuke/mark",
-    "description": "The PHP Common Lib Package",
+    "description": "The PHP Common Library Package",
     "type": "1",
     "require": {
         "php": ">=7.1.0"
